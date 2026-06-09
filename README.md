@@ -159,9 +159,9 @@ Behavioral signals queried directly from the raw data:
 
 ## 👤 Author
 
-**Vishnu** — Final Year B.Tech CS, APJ Abdul Kalam Technological University  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/YOUR_USERNAME)
+**Vishnu** — Data Analyst,Turning Raw data into actionable insights 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](http://linkedin.com/in/vishnu-n-32096b202)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/VishnuNandakumar)
 
 ---
 
